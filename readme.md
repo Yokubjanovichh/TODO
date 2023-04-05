@@ -25,3 +25,6 @@ Maslahat :
 ❌ Tepada yozilgan website link shunchaki xomaki korinish, ozinggizda boshqacha idea bolsa bemalol ishlatavering
 
 ❌ Bir birlarizdan kochirmanglar, oxshash kodlar keladigan bolsa imtihondan yiqilasizlar
+
+
+- link to project 👉🏼 https://to-do-list-by-yokubjanovich.netlify.app/
